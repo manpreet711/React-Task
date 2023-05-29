@@ -1,0 +1,14 @@
+.navs {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.align-datePromocode {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 1em;
+}
+.text-align-right {
+  text-align: right;
+}
